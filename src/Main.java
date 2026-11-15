@@ -58,7 +58,7 @@ public class Main {
                 LocalDate.of(2030, 11, 6),
                 20,
                 5000,
-                "Visa"
+                "Cashback"
         );
 
         cliente1.getCuentas().add(cuentaCreditoAlexander);
@@ -99,7 +99,7 @@ public class Main {
                 LocalDate.of(2030, 11, 6),
                 18,
                 3000,
-                "Mastercard"
+                "Millas"
         );
 
         cliente2.getCuentas().add(cuentaCreditoHenry);
